@@ -1,5 +1,5 @@
-Zayka
-Zayka is a recipe website that allows users to discover and explore a wide range of recipes using a simple and intuitive interface. Built with HTML, CSS, and JavaScript, Zayka fetches recipe data from an external food API to provide users with detailed instructions, ingredients, and more.
+
+**Zayka** is a recipe website that allows users to discover and explore a wide range of recipes using a simple and intuitive interface. Built with HTML, CSS, and JavaScript, Zayka fetches recipe data from an external food API to provide users with detailed instructions, ingredients, and more.
 
 Features
 Recipe Search: Users can search for various recipes based on ingredients or dish names.
